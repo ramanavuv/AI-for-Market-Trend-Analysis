@@ -1,0 +1,676 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Andhra Pradesh,Cuddapah,Badvel,Red Gram,Other,FAQ,31-12-2002,1228,1366,1321,7
+Andhra Pradesh,Cuddapah,Badvel,Red Gram,Ordinary (Split),FAQ,26-08-2006,2000,2200,2100,7
+Andhra Pradesh,Cuddapah,Badvel,Red Gram,Big (Bhopal) (Split),FAQ,25-02-2006,1400,1800,1600,7
+Andhra Pradesh,Cuddapah,Badvel,Red Gram,Other,FAQ,14-08-2002,1546,1546,1546,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,02-03-2005,1400,1900,1700,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,10-08-2005,1542,1722,1675,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,24-08-2005,1490,1671,1649,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,25-08-2005,1540,1708,1690,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,26-08-2005,1513,1699,1665,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,06-09-2005,1513,1669,1659,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,12-09-2005,1466,1665,1624,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,14-09-2005,1414,1500,1500,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,19-09-2005,1592,1636,1595,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,22-09-2005,1515,1705,1690,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,10-10-2005,1605,1783,1731,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,11-10-2005,1707,1764,1761,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,06-12-2005,1500,1903,1829,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,07-12-2005,1521,1821,1750,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,15-12-2005,1581,1721,1655,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,16-12-2005,1650,1790,1700,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,17-12-2005,1499,1771,1690,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,19-12-2005,1500,1710,1696,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,21-12-2005,1642,1815,1652,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,12-08-2005,2050,2250,2250,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,22-08-2005,2000,2200,2200,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,16-09-2005,2000,2100,2100,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,18-09-2005,2000,2100,2100,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,11-04-2007,2200,2240,2220,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,13-04-2007,2195,2300,2248,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,24-04-2007,2125,2230,2178,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,26-04-2007,2070,2170,2120,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,07-05-2007,2120,2200,2160,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,22-05-2007,2020,2155,2088,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,21-06-2007,2080,2115,2098,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,23-06-2007,2075,2125,2100,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,28-06-2007,2170,2250,2210,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,30-06-2007,2155,2255,2205,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,11-07-2007,2110,2235,2173,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,18-07-2007,2105,2260,2183,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,20-07-2007,2155,2205,2180,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,04-01-2006,1650,1803,1795,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,07-01-2006,1562,1840,1801,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,13-01-2006,1580,1780,1725,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,23-01-2006,1436,1768,1670,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,24-01-2006,1300,1820,1716,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,06-02-2006,1543,1677,1650,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,16-02-2006,1450,1635,1600,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,25-03-2006,1200,1891,1775,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,05-04-2006,1572,1970,1920,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,17-04-2006,1500,1971,1900,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,29-04-2006,1620,2021,1950,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,11-05-2006,1771,2314,2252,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,13-05-2006,1949,2260,2216,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,16-09-2006,2050,2864,2736,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,03-10-2006,2800,3000,2844,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,12-10-2006,2335,2945,2760,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Local,FAQ,10-04-2006,1600,1650,1625,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,24-03-2007,2025,2260,2143,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,04-04-2007,2290,2390,2340,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,12-04-2007,2020,2300,2160,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,18-04-2007,2160,2255,2208,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,25-04-2007,2140,2225,2183,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,28-04-2007,2050,2145,2098,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,02-05-2007,2060,2190,2125,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,04-05-2007,2025,2210,2118,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,05-05-2007,2105,2205,2155,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,16-05-2007,2010,2170,2090,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,26-05-2007,1900,1980,1940,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,28-05-2007,1885,2005,1945,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,01-06-2007,1950,2065,2008,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,07-06-2007,1915,2035,1975,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,15-06-2007,2065,2065,2065,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,29-06-2007,2105,2265,2185,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,06-07-2007,2000,2215,2108,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,17-07-2007,2060,2255,2158,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,02-01-2006,1727,1866,1799,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,16-01-2006,1709,1840,1735,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,18-01-2006,1550,1773,1628,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,20-01-2006,1600,1689,1600,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,21-01-2006,1577,1577,1577,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,01-02-2006,1471,1608,1600,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,03-02-2006,1435,1684,1639,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,11-02-2006,1549,1727,1700,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,18-02-2006,1508,1750,1580,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,29-03-2006,1450,1922,1800,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,03-04-2006,1451,1909,1860,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,13-04-2006,1500,1915,1880,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,05-05-2006,1718,2133,2100,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,06-05-2006,1959,2170,2136,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,08-05-2006,1600,2276,2200,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,18-05-2006,2000,2297,2261,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,19-05-2006,2095,2283,2242,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,05-10-2006,1920,2985,2750,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,10-10-2006,2398,2914,2881,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,13-10-2006,2601,2827,2782,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,11-08-2005,1455,1713,1675,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,18-08-2005,1491,1690,1671,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,16-09-2005,1532,1600,1600,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,08-10-2005,1551,1869,1758,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,05-12-2005,1695,1791,1716,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,10-12-2005,1692,1802,1763,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,20-12-2005,1479,1752,1718,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,23-12-2005,1600,1797,1741,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,26-12-2005,1450,1860,1740,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,28-12-2005,1482,1789,1780,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,29-12-2005,1571,1821,1788,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,30-12-2005,1640,1844,1805,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,29-08-2005,2000,2200,2200,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,11-09-2005,2000,2100,2100,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,21-09-2005,2060,2150,2150,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,10-01-2006,1510,1848,1786,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,19-01-2006,1675,1780,1773,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,02-02-2006,1532,1736,1619,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,07-02-2006,1450,1706,1695,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,08-02-2006,1621,1763,1715,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,17-02-2006,1488,1640,1595,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,28-03-2006,1450,1922,1800,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,01-04-2006,1551,1870,1771,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,07-04-2006,1604,1970,1940,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,14-04-2006,1568,1960,1844,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,18-04-2006,1768,1980,1950,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,19-04-2006,1436,1975,1921,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,20-04-2006,1620,1980,1960,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,01-05-2006,1580,2190,2140,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,09-05-2006,1600,2300,2244,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,14-09-2006,2007,2860,2770,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,15-09-2006,2015,2954,2871,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,18-09-2006,2206,2981,2755,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,19-09-2006,2305,3000,2880,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,04-10-2006,2386,3000,2869,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,07-10-2006,2538,3054,2872,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,12-08-2005,1430,1693,1674,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,17-08-2005,1600,1700,1681,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,02-09-2005,1500,1657,1656,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,23-09-2005,1518,1645,1644,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,24-09-2005,1582,1636,1588,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,05-10-2005,1353,1746,1701,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,14-12-2005,1455,1840,1726,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,27-12-2005,1500,1821,1811,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,17-08-2005,2000,2200,2200,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,21-08-2005,2000,2200,2200,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,02-09-2005,2000,2100,2100,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Local,FAQ,17-03-2007,1750,1930,1840,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,23-03-2007,2045,2215,2130,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,02-04-2007,2310,2355,2333,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,03-04-2007,2215,2400,2308,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,06-04-2007,2025,2325,2175,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,07-04-2007,2250,2340,2295,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,16-04-2007,2140,2315,2228,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,20-04-2007,2170,2300,2235,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,23-04-2007,2175,2240,2208,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,11-05-2007,2060,2130,2095,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,08-06-2007,2000,2025,2013,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,14-06-2007,2005,2035,2020,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,16-06-2007,2030,2070,2050,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,10-07-2007,2065,2265,2165,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,19-07-2007,2015,2200,2108,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,24-07-2007,2095,2125,2110,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,22-03-2007,1850,2150,2000,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,05-04-2007,2260,2350,2305,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,09-04-2007,2115,2300,2208,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,10-04-2007,2200,2310,2255,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,27-04-2007,2090,2150,2120,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,30-04-2007,2110,2175,2143,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,01-05-2007,2000,2190,2095,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,03-05-2007,2065,2200,2133,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,12-05-2007,2070,2205,2138,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,18-05-2007,2000,2080,2040,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,25-05-2007,1925,1975,1950,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,09-06-2007,2025,2040,2033,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,18-06-2007,1995,2150,2073,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,19-06-2007,2090,2105,2098,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,20-06-2007,2080,2240,2160,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,22-06-2007,1975,2110,2043,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,27-06-2007,2300,2300,2300,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,05-07-2007,2175,2295,2235,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,13-07-2007,2055,2135,2095,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,21-07-2007,2115,2175,2145,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,23-07-2007,2035,2155,2095,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,27-07-2007,1990,2150,2070,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,05-12-2002,2390,2390,2390,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,05-01-2006,1501,1820,1769,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,25-01-2006,1321,1780,1649,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,31-01-2006,1479,1627,1589,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,14-02-2006,1400,1679,1640,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,15-02-2006,1480,1640,1572,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,20-02-2006,1435,1599,1530,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,22-02-2006,1450,1580,1565,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,27-03-2006,1415,1846,1801,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,04-04-2006,1450,1946,1840,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,10-04-2006,1480,1950,1920,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,22-04-2006,1452,1980,1915,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,25-04-2006,1451,2001,1950,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,27-04-2006,1505,1999,1965,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,28-04-2006,1590,2022,1990,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,02-05-2006,1450,1966,1929,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,10-05-2006,1802,2322,2265,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,06-10-2006,2100,2897,2861,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,13-08-2005,1425,1671,1671,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,16-08-2005,1550,1683,1642,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,20-08-2005,1676,1676,1676,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,22-08-2005,1650,1739,1728,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,23-08-2005,1511,1744,1724,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,07-09-2005,1569,1569,1569,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,21-09-2005,1485,1720,1655,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,29-11-2005,1500,1797,1778,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,30-11-2005,1461,1838,1795,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,01-12-2005,1461,1778,1758,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,03-12-2005,1600,1866,1821,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,08-12-2005,1693,1782,1734,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,13-12-2005,1550,1867,1725,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,22-12-2005,1460,1780,1734,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,26-08-2005,2050,2250,2250,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,13-09-2005,1950,2100,2100,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,19-09-2005,2050,2150,2150,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,01-09-2005,1503,1695,1660,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,03-09-2005,1559,1691,1615,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,05-09-2005,1545,1730,1671,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,13-09-2005,1506,1668,1600,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,20-09-2005,1543,1651,1570,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,01-10-2005,1615,1728,1677,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,06-10-2005,1225,1778,1743,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,07-10-2005,1610,1769,1721,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,13-10-2005,1428,1756,1745,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,14-10-2005,1514,1749,1744,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,15-10-2005,1651,1780,1761,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,02-12-2005,1465,1791,1775,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,09-12-2005,1530,1802,1780,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,24-12-2005,1670,1722,1700,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,31-12-2005,1640,1844,1732,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,16-08-2005,2000,2200,2200,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,09-09-2005,2000,2100,2100,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,03-01-2006,1721,1880,1830,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,06-01-2006,1635,1832,1788,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,09-01-2006,1680,1760,1741,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,17-01-2006,1350,1734,1659,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,27-01-2006,1496,1714,1676,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,28-01-2006,1436,1601,1550,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,30-01-2006,1501,1626,1566,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,04-02-2006,1564,1738,1668,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,10-02-2006,1500,1778,1745,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,13-02-2006,1548,1687,1638,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,31-03-2006,1550,1889,1800,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,08-04-2006,1485,1950,1800,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,12-04-2006,1450,1950,1850,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,15-04-2006,1450,1960,1907,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,21-04-2006,1690,2000,1911,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,24-04-2006,1500,1999,1904,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,26-04-2006,1700,2029,1980,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,03-05-2006,1560,2031,2011,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,04-05-2006,1515,2084,2040,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,12-05-2006,1800,2293,2229,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,15-05-2006,2105,2325,2288,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,16-05-2006,1700,2292,2240,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,17-05-2006,1687,2291,2269,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,09-10-2006,1968,2947,2780,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,F.A.Q. (Whole),FAQ,11-10-2006,2630,2948,2827,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Local,FAQ,11-04-2006,1600,1700,1650,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,14-04-2007,2180,2330,2255,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,17-04-2007,2145,2265,2205,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,17-05-2007,2100,2105,2103,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,19-05-2007,2085,2105,2095,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,24-05-2007,1855,1980,1918,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,30-05-2007,2005,2120,2063,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,05-06-2007,2000,2055,2028,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,11-06-2007,1650,1945,1798,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,04-07-2007,2200,2315,2258,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,02-08-2007,2085,2325,2205,7
+Andhra Pradesh,Cuddapah,Cuddapah,Red Gram,Other,FAQ,03-08-2007,2005,2090,2048,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,(Whole),Medium,13-02-2015,5000,5100,5050,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,(Whole),Medium,15-07-2015,7000,7200,7100,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,Ordinary (Split),FAQ,20-10-2005,1300,1300,1300,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,Local,Medium,30-04-2015,6400,6500,6450,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,(Whole),Medium,10-01-2016,7000,7200,7100,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,(Whole),Medium,08-02-2016,6005,6200,6100,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,(Whole),Medium,29-02-2016,12600,12800,12700,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,Local,Medium,16-07-2014,3950,4000,3950,7
+Andhra Pradesh,Cuddapah,Jammalamadugu,Red Gram,(Whole),Medium,09-02-2016,6300,6500,6400,7
+Andhra Pradesh,Cuddapah,Kamalapuram,Red Gram,Local,Medium,28-01-2012,2250,2350,2300,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,03-03-2008,1600,1850,1750,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,04-03-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,25-03-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,29-03-2008,1700,1850,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,01-04-2008,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,09-04-2008,1750,1950,1850,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,18-04-2008,1920,1960,1940,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,19-04-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,20-04-2008,1920,1960,1940,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,27-04-2008,1930,1980,1950,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,05-05-2008,1920,1960,1940,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,10-05-2008,1960,2000,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,11-05-2008,1960,2000,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,14-05-2008,2020,2060,2040,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,25-05-2008,2080,2120,2100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,28-05-2008,1980,2020,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,04-06-2008,1960,2000,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,17-06-2008,2020,2100,2060,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,21-06-2008,2020,2100,2060,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,23-06-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,25-06-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,26-06-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,04-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,09-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,11-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,21-07-2008,2100,2160,2130,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,17-04-2012,2900,3100,3000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,19-06-2012,3200,3400,3300,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,20-06-2012,3400,3600,3500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,22-06-2012,3437,3637,3537,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,24-06-2012,3400,3600,3500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,06-07-2012,2988,3188,3088,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,14-07-2012,2800,3200,3000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,26-07-2012,3400,3600,3500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,04-08-2012,3400,3600,3500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,07-08-2012,3300,3700,3500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,13-09-2012,4400,4600,4500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,14-11-2012,3800,4000,3900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,07-04-2012,2900,3100,3000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,10-04-2012,2400,2600,2500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,11-06-2012,3300,3500,3400,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,23-06-2012,3400,3600,3500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,11-07-2012,2800,3200,3000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,08-08-2012,3400,3800,3600,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,15-08-2012,3400,3800,3600,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,30-08-2012,3700,3900,3800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,01-09-2012,3800,4000,3900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,09-09-2012,4100,4400,4300,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,16-09-2012,4400,4600,4500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Ordinary (Split),Medium,03-06-2012,2800,3000,2900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,13-03-2008,1700,1850,1820,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,14-03-2008,1600,1850,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,15-03-2008,1600,1900,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,02-04-2008,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,04-04-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,08-04-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,23-04-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,28-04-2008,1910,1950,1930,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,29-04-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,03-05-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,19-05-2008,1950,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,23-05-2008,2040,2080,2060,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,27-05-2008,2080,2120,2100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,29-05-2008,1980,2020,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,07-06-2008,1980,2020,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,09-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,10-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,18-06-2008,2020,2100,2060,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,19-06-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,27-06-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,28-06-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,01-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,05-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,06-07-2008,1900,2000,1950,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,17-07-2008,2050,2150,2100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,22-07-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,23-07-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,25-07-2008,2050,2150,2100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,30-07-2008,1900,2100,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,29-02-2008,1600,1850,1750,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,01-03-2008,1600,1850,1750,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,06-03-2008,1700,1850,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,11-03-2008,1600,1850,1750,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,17-03-2008,1600,1900,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,20-03-2008,1600,1850,1700,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,28-03-2008,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,05-04-2008,1900,2000,1950,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,06-04-2008,1930,1950,1940,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,12-04-2008,1900,1940,1920,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,15-04-2008,1920,1960,1940,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,30-04-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,12-05-2008,2000,2040,2020,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,16-05-2008,2010,2050,2030,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,17-05-2008,1960,2020,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,20-05-2008,1950,2050,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,22-05-2008,2020,2060,2040,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,24-05-2008,2080,2120,2100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,26-05-2008,2080,2120,2100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,30-05-2008,1980,2020,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,31-05-2008,1980,2020,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,05-06-2008,1980,2020,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,12-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,24-06-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,29-06-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,03-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,15-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,20-07-2008,1900,2000,1950,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,24-07-2008,1900,2100,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,18-04-2012,2800,3000,2900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,15-06-2012,3200,3400,3300,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,05-07-2012,2800,3000,2900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,18-07-2012,2800,3200,3000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,01-11-2012,4100,4300,4200,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,04-11-2012,3800,4000,3900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,05-11-2012,4089,4289,4189,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Ordinary (Split),Medium,23-08-2012,3700,3900,3800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,22-02-2008,1650,1850,1700,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,25-02-2008,1600,1850,1700,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,26-02-2008,1600,1850,1750,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,27-02-2008,1600,1850,1700,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,05-03-2008,1600,1850,1750,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,07-03-2008,1600,1850,1750,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,22-03-2008,1600,1850,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,24-03-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,27-03-2008,1700,1900,1850,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,25-04-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,02-05-2008,1960,2000,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,07-05-2008,1960,2000,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,15-05-2008,2010,2050,2030,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,01-06-2008,1960,2020,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,02-06-2008,1940,2020,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,14-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,16-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,22-06-2008,2020,2100,2060,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,08-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,12-07-2008,2050,2150,2100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,13-07-2008,2050,2150,2100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,14-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,16-07-2008,2040,2120,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,18-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,19-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Hybrid,Medium,13-08-2012,3827,4027,3927,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,20-04-2012,2311,2511,2411,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,13-05-2012,2600,2800,2700,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,14-06-2012,3200,3400,3300,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,07-07-2012,2700,2900,2800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,08-07-2012,2800,3000,2900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,11-08-2012,3300,3700,3500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,16-08-2012,3400,3800,3600,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,17-08-2012,3400,3800,3600,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,25-08-2012,3700,3900,3800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,26-08-2012,3800,4000,3900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,29-08-2012,3800,4000,3900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,02-09-2012,3800,4200,4000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,03-09-2012,4000,4200,4100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,06-09-2012,3800,4200,4000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,21-09-2012,4500,4700,4600,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,21-04-2012,2700,2900,2800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,06-05-2012,2700,2900,2800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,26-06-2012,3300,3500,3400,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,01-07-2012,3300,3500,3400,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,03-07-2012,2800,3000,2900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,20-07-2012,2800,3200,3000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,01-08-2012,3400,3600,3500,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,21-08-2012,3600,3800,3700,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,10-09-2012,4100,4300,4200,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,12-09-2012,4200,4600,4400,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,Medium,18-09-2012,4515,4715,4615,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Ordinary (Split),Medium,05-06-2012,2900,3100,3000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Ordinary (Split),Medium,19-08-2012,3500,3700,3600,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,23-02-2008,1600,1800,1700,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,24-02-2008,1600,1850,1700,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,28-02-2008,1750,1850,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,02-03-2008,1600,1850,1750,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,10-03-2008,1600,1850,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,12-03-2008,1700,1850,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,18-03-2008,1600,1900,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,26-03-2008,1600,1900,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,30-03-2008,1700,1850,1800,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,03-04-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,10-04-2008,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,11-04-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,13-04-2008,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,14-04-2008,1910,1950,1930,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,26-04-2008,1920,1960,1940,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,01-05-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,06-05-2008,1960,2000,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,08-05-2008,1960,2000,1980,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,09-05-2008,1900,2000,1950,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,13-05-2008,2000,2040,2020,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,18-05-2008,2000,2200,2100,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,21-05-2008,2010,2050,2030,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,03-06-2008,1940,1980,1960,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,06-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,08-06-2008,1980,2020,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,11-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,13-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,15-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,20-06-2008,2060,2100,2080,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,02-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,10-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,26-07-2008,1900,2100,2000,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,27-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,28-07-2008,2000,2100,2050,7
+Andhra Pradesh,Cuddapah,Lakkireddipally,Red Gram,Local,FAQ,29-07-2008,2050,2150,2100,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,25-03-2006,1650,1750,1700,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,28-03-2006,1400,1500,1425,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,04-04-2006,1550,1650,1600,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,27-03-2006,1400,1600,1500,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,02-04-2006,1500,1600,1560,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,05-04-2006,1500,1600,1550,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,10-04-2006,1600,1650,1625,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,12-04-2006,1600,1675,1625,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,13-04-2006,1600,1700,1650,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,29-03-2006,1450,1550,1500,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,15-04-2006,1600,1700,1670,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,24-04-2008,1920,1960,1940,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,31-03-2006,1400,1500,1450,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,01-04-2006,1500,1600,1550,7
+Andhra Pradesh,Cuddapah,Pulivendala,Red Gram,Local,FAQ,06-04-2006,1600,1650,1625,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,04-02-2008,1700,1870,1790,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,06-02-2008,1680,1860,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,14-02-2008,1670,1870,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,26-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,10-03-2008,1900,2100,2000,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,19-03-2008,1800,2000,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,09-04-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,13-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,13-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,14-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,16-05-2008,1800,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,15-02-2008,1670,1870,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,27-03-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,19-02-2004,1450,1550,1500,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,27-02-2004,1450,1500,1465,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,01-01-2004,1300,1400,1330,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,06-01-2004,1500,1550,1515,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,20-03-2004,1450,1500,1490,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,29-03-2004,1450,1500,1472,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,13-04-2004,1500,1600,1540,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,02-12-2003,1350,1460,1380,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,16-12-2003,1550,1650,1580,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,19-12-2003,1450,1550,1500,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Small (Whole),FAQ,06-08-2003,1600,1690,1645,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,31-01-2007,1780,1960,1870,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,05-02-2007,1800,2000,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,17-02-2007,1800,2000,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,23-02-2007,1680,1800,1740,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,27-02-2007,1700,1820,1760,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,04-03-2007,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,24-03-2007,1760,1920,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,02-04-2007,1750,1920,1835,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,20-02-2007,1800,2000,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,23-03-2007,1750,1920,1835,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,28-03-2007,1750,1920,1830,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,28-01-2008,1700,1800,1750,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,05-02-2008,1680,1860,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,21-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,23-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,11-03-2008,1900,2100,2000,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,14-03-2008,1820,2000,1950,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,29-03-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,12-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,21-04-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,22-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,24-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,25-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,30-04-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,10-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,20-05-2008,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,21-05-2008,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,31-03-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,06-04-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,17-05-2008,1800,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,17-11-2003,1500,1600,1574,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,20-11-2003,1600,1700,1650,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,25-11-2003,1500,1600,1565,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,01-12-2003,1550,1600,1575,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,17-01-2004,1380,1450,1410,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,07-02-2004,1500,1500,1500,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,16-02-2004,1500,1550,1520,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,17-02-2004,1450,1500,1465,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,25-02-2004,1460,1470,1465,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,26-02-2004,1450,1480,1465,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,01-03-2004,1400,1450,1420,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,23-03-2004,1450,1460,1454,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,29-07-2004,1800,1850,1830,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,19-03-2005,1450,1500,1490,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,21-03-2005,1400,1450,1415,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,29-01-2008,1700,1800,1750,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,08-02-2008,1670,1870,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,12-02-2008,1670,1870,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,16-02-2008,1670,1870,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,17-02-2008,1670,1870,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,24-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,17-03-2008,1850,2000,1920,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,21-03-2008,1800,2000,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,08-04-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,10-04-2008,1740,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,11-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,16-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,17-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,20-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,01-05-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,06-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,12-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,15-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,29-02-2008,1900,2200,2050,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,16-03-2008,1850,2000,1920,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,28-03-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,01-04-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,04-02-2004,1500,1500,1500,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,20-02-2004,1400,1470,1440,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,02-01-2004,1500,1600,1530,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,07-01-2004,1500,1550,1525,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,12-04-2004,1500,1600,1530,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,30-07-2004,1825,1875,1850,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,05-08-2004,1850,1900,1875,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,22-01-2007,1760,1800,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,24-01-2007,1760,1800,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,20-03-2007,1750,1950,1850,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,21-03-2007,1750,1900,1835,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,02-02-2007,1800,2000,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,14-02-2007,1750,1900,1830,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,25-02-2007,1680,1800,1740,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,06-03-2007,1750,1850,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,19-03-2007,1750,1920,1835,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,22-03-2007,1750,1920,1835,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,29-03-2007,1750,1900,1850,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,30-03-2007,1750,1920,1835,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,13-02-2004,1500,1530,1510,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,24-02-2004,1400,1450,1420,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,28-02-2004,1400,1450,1420,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,10-03-2004,1400,1430,1405,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,15-03-2004,1400,1450,1410,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,06-08-2003,1650,1700,1675,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,12-12-2003,1600,1700,1670,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,15-12-2003,1550,1600,1580,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,31-12-2003,1500,1600,1530,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,30-01-2008,1700,1850,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,31-01-2008,1700,1850,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,01-02-2008,1700,1850,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,07-02-2008,1670,1870,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,13-02-2008,1670,1870,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,19-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,28-02-2008,1900,2200,2050,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,15-03-2008,1820,2000,1950,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,26-03-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,02-04-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,03-04-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,04-04-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,05-04-2008,1750,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,18-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,19-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,23-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,26-04-2008,1700,1900,1825,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,29-04-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,03-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,05-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,08-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,11-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,18-02-2008,1670,1870,1770,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,Medium,01-04-2012,3300,3500,3400,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,21-11-2003,1550,1650,1600,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,22-11-2003,1400,1600,1500,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,18-12-2003,1500,1600,1560,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,24-12-2003,1500,1600,1550,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,22-03-2005,1400,1450,1420,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,06-02-2004,1520,1600,1545,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,12-02-2004,1500,1650,1540,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,(Whole),FAQ,23-02-2004,1400,1450,1415,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,12-01-2004,1000,1380,1130,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,07-08-2004,2050,2100,2080,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Desi(Whole),FAQ,09-08-2004,1875,1925,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,02-02-2008,1700,1870,1790,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,11-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,20-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,22-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,07-03-2008,1900,2100,2000,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,12-03-2008,1850,2000,1920,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,13-03-2008,1850,2000,1920,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,28-04-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,02-05-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,07-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,09-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,18-05-2008,1850,1950,1900,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,25-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,27-02-2008,1700,1900,1800,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Other,FAQ,19-05-2008,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,03-02-2007,1800,1950,1875,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,04-02-2007,1800,1950,1875,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,09-02-2007,1750,1930,1840,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,13-02-2007,1600,1800,1700,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,01-03-2007,1800,1900,1850,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,18-03-2007,1750,1930,1840,7
+Andhra Pradesh,Cuddapah,Rayachoti,Red Gram,Local,FAQ,26-03-2007,1750,1920,1835,7
